@@ -31,6 +31,7 @@
 - [დენისი სანტურიანი](https://github.com/Denissant) | [პოპულაციის სტანდარტული გადახრა](https://github.com/Denissant/std_dev_demo)
 - [თომა მარგიშვილი](https://github.com/hgresa) | [მოცემული ბიტისტვის მაქსიმალური რიცხვის პოვნა](https://github.com/hgresa/uniLab)
 - [უჩა ხმალაძე](https://github.com/Kastagnus/) | [ციფრის ფაქტორიალის პოვნა](https://github.com/Kastagnus/Calculator)
+- [ირაკლი გიუნაშვილი](https://github.com/irakligiunashvili) | [ფესვის ამოღება](https://github.com/IrakliG/UnilabPythonInternship/commit/f4468eae1f29e94693e5c1b70186c6c082723cc7)
 
 
 ## შეხვედრის ჩანაწერები
